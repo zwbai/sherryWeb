@@ -11,3 +11,13 @@
 .sherry{
     text-align: center;
 }
+#p-1 {
+    background-color: red;
+}
+#xiaokeai p{
+    font-size: 60px;
+}
+#xiaokeai a{
+    color: #000;
+}
+* {color:red;}
